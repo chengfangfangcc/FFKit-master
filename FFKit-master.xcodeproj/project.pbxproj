@@ -105,6 +105,7 @@
 				54F6832821FABA3500B327C9 /* AppDelegate.m */,
 				54F6832A21FABA3500B327C9 /* ViewController.h */,
 				54F6832B21FABA3500B327C9 /* ViewController.m */,
+				54F6835921FABAD500B327C9 /* FFKit */,
 				54F6832D21FABA3500B327C9 /* Main.storyboard */,
 				54F6833021FABA3700B327C9 /* Assets.xcassets */,
 				54F6833221FABA3700B327C9 /* LaunchScreen.storyboard */,
@@ -130,6 +131,13 @@
 				54F6834D21FABA3700B327C9 /* Info.plist */,
 			);
 			path = "FFKit-masterUITests";
+			sourceTree = "<group>";
+		};
+		54F6835921FABAD500B327C9 /* FFKit */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = FFKit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
